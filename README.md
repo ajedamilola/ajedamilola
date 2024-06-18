@@ -10,4 +10,3 @@
 
   ![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajedamilola&theme=midnight-purple&show_icons=true)
   ![Damilola's Preferred languages](https://github-readme-stats.vercel.app/api/top-langs?username=ajedamilola&show_icons=true&theme=midnight-purple&layout=donut-vertical)
-  These are stats of my public repo tho 👉👈
